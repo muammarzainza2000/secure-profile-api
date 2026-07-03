@@ -2,7 +2,7 @@
 
 > REST API dengan autentikasi JWT untuk UNSIA Digital Library  
 > Praktikum Pemrograman Web 2 — Pertemuan 10  
-> Program Studi Informatika, FTKI Universitas Nasional
+> Program Studi Informatika, PJJ Informartika UNIVERSITAS SIBER ASIA
 
 ---
 
@@ -267,19 +267,3 @@ Authorization: Bearer <jwt-token>
 | CORS error di frontend | Sesuaikan `CLIENT_ORIGIN` di `.env` dengan alamat frontend |
 
 ---
-
-## Referensi
-
-- RFC 7519 - JSON Web Token (JWT): https://datatracker.ietf.org/doc/html/rfc7519
-- Node.js LTS Releases: https://nodejs.org/en/about/previous-releases
-- Express.js Routing Guide: https://expressjs.com/en/guide/routing/
-- auth0/node-jsonwebtoken: https://github.com/auth0/node-jsonwebtoken
-- OWASP REST Security Cheat Sheet: https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html
-- OWASP Authentication Cheat Sheet: https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html
-- OWASP Password Storage Cheat Sheet: https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html
-
----
-
-> Modul Praktikum Pemrograman Web 2 — Pertemuan 10  
-> Program Studi Informatika, FTKI Universitas Nasional  
-> Revisi: Juni 2026
